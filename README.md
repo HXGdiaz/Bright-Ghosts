@@ -1,6 +1,6 @@
 # Bright Ghosts
-[![Windows Build Status](https://img.shields.io/badge/Windows-failed-red?branch=master&label=Windows&logo=windows)]()
-[![macOS Build Status](https://img.shields.io/badge/Macos-failed-red?branch=master&label=macOS&logo=apple)]()
+[![Windows Build Status](https://img.shields.io/badge/Windows-failed-f44336?branch=master&label=Windows&logo=windows)]()
+[![macOS Build Status](https://img.shields.io/badge/Macos-failed-f44336?branch=master&label=macOS&logo=apple)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   |Game|Status|

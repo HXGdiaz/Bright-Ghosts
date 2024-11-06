@@ -5,10 +5,10 @@
 
   |Game|Status|
 |------|---------|
-|Pre-alpha|[![Pre-alpha](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg)]()|
-|Alpha|[![Alpha](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
-|Beta|[![Beta](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
-|Release|[![Release](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
+|Pre-alpha|[![Pre-alpha](https://img.shields.io/badge/Not%20done%20yet-f44336)]()|
+|Alpha|[![Alpha](https://img.shields.io/badge/Not%20done%20yet-f44336)]()|
+|Beta|[![Beta](https://img.shields.io/badge/Not%20done%20yet-f44336)]()|
+|Release|[![Release](https://img.shields.io/badge/Not%20done%20yet-f44336)]()|
 
 
 Info

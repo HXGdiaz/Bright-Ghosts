@@ -1,7 +1,17 @@
 # Bright Ghosts
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Windows Build Status](https://img.shields.io/github/actions/workflow/status/Warzone2100/warzone2100/CI_windows.yml?branch=master&label=Windows&logo=windows)]()
+[![macOS Build Status](https://img.shields.io/github/actions/workflow/status/Warzone2100/warzone2100/CI_macos.yml?branch=master&label=macOS&logo=apple)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-About
+  |Game|Status|
+|------|---------|
+|Pre-alpha|[![Pre-alpha](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg)]()|
+|Alpha|[![Alpha](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
+|Beta|[![Beta](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
+|Release|[![Release](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)]()|
+
+
+Info
 =====
 
 A horror game in which players explore mysterious locations by interacting with ghosts that become visible when using light. Players will have to uncover the dark secrets of an abandoned house, facing terrifying events and experiences in a game aimed at fans of the horror genre.
@@ -14,6 +24,8 @@ Features
 * Changeable settings for base gameplay, with nearly limitless options for different hotkey configurations.
 * Beautifully composed playlist reflecting the atmosphere of this horror-filled world
 
+> [!NOTE]
+> At the end of development, the project will no longer be updated, our development studio will not be able to implement DLC.
 
 
 

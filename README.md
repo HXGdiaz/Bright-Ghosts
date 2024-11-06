@@ -36,17 +36,8 @@ Features
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Credits
 
 Thanks to our contributors: HXGdiaz
+
+[![Credits](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/HXGdiaz)
